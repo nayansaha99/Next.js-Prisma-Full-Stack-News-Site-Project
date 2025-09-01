@@ -33,11 +33,11 @@ const AppNavBar = (props) => {
                         <img className="nav-logo" src={"/images/logo.svg"} alt="img" />
                     </div>
                     <Navbar.Toggle aria-controls="navbarScroll" className="" style={{
-                        borderColor:"none",
+                        borderColor: "none",
                         boxShadow: "none",
                         outline: "none"
                     }}
-                       
+
                     />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav className="me-auto ms-3 my-2 my-lg-0" style={{ maxHeight: '100px' }} navbarScroll>

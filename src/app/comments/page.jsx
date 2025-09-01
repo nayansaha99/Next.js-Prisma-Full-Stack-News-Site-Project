@@ -14,8 +14,9 @@ const Page =async () => {
     const cookieStore = cookies()
     let data=await getData(cookieStore);
 
-    return (
+    return (    
         <PlainLayout>
+            {/* {JSON.stringify(data)} */}
             <UserCommentsList data={data['Comments']}/>
         </PlainLayout>
     );

@@ -12,9 +12,6 @@ async function getData(id){
     return {Details:Details,Popular:Popular,Comments:Comments}
 }
 
-
-
-
 const Page =async (props) => {
     let id=props.searchParams['id'];
     const data=await getData(id);
