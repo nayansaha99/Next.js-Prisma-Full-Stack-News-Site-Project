@@ -12,6 +12,9 @@ The platform allows users to browse news articles, search posts, manage profiles
 Below are some screenshots demonstrating the main features and interface of the News Website.
 
 ![Project Preview](./project_img/images/project.JPG)
+![Project Preview](./project_img/images/project_img.JPG)
+![Project Preview](./project_img/images/project_img1.JPG)
+![Project Preview](./project_img/images/project_img2.JPG)
 
 ---
 
@@ -65,7 +68,6 @@ Below are some screenshots demonstrating the main features and interface of the 
 
 ## Project Structure
 
-```id="pv4h9s"
 project-root
 │
 ├── pages
