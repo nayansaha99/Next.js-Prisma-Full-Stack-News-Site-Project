@@ -30,3 +30,4 @@ It features a user-friendly interface, smooth performance, and core functionalit
 
 ## Project Structure
 
+![Project Preview](./project_img/images/project.JPG)

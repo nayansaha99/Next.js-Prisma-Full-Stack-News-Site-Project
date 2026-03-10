@@ -69,7 +69,7 @@ const ProfileForm = (props) => {
 
     return (
         <div>
-
+            {/* {JSON.stringify(data)} */}
             <div className="row h-100  justify-content-center mt-4">
                 <div className="col-md-8 col-lg-8 col-sm-12 col-12 ">
                     <div className="card container-fluid animated fadeIn p-5 gradient-bg">

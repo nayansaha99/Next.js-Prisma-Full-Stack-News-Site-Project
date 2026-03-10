@@ -6,7 +6,7 @@ export async function POST(req,res) {
     try{
         let reqBody=await req.json();
         const prisma=new PrismaClient();
-        const result=await prisma.users.findUnique({where:reqBody}) 
+        const result=await prisma.users.findUnique({where:reqbody}) 
 
         if(result.length===0){
             return  NextResponse.json({status:"fail",data:result})
