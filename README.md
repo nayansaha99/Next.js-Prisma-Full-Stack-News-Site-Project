@@ -68,6 +68,7 @@ Below are some screenshots demonstrating the main features and interface of the 
 
 ## Project Structure
 
+```
 project-root
 │
 ├── pages
